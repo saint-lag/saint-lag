@@ -4,7 +4,8 @@
 **saint-lag/saint-lag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔬  About me ...
+- 🔬  About me
+
   1 - Bioinformatics and Biophysics undergraduate student at UFRJ (Rio de Janeiro, Brazil)
   2 - Currently studying Software Development at Trybe
   3 - Seeking for job opportunities in Web Development and/or Data Science
