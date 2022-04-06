@@ -1,41 +1,65 @@
-### Hi there 👋
+### Hi there ✨
 
-<!--
-**saint-lag/saint-lag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🔬  About me:
 
-- 🔬  About me
+  1 - **Bioinformatics** and **Biophysics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
+  
+  2 - Currently studying **Software Development** at _Trybe_
+  
+  3 - Seeking for job opportunities in _Web Development_ || _Data Science_
+  
+  4 - Willing to undergraduate in **Applied Math**
+  
+  5 - Loves Arts and Culture in general
+  
+  6 - Learning as a hobby
+  
 
-  1 - Bioinformatics and Biophysics undergraduate student at UFRJ (Rio de Janeiro, Brazil)
-  2 - Currently studying Software Development at Trybe
-  3 - Seeking for job opportunities in Web Development and/or Data Science
-  4 - Curious about everything
-  5 - Loves Arts, Languages, Sports and Culture in general
-  6 - Learning is my hobby
+- 🌱 I’m currently learning:
 
-- 🌱 I’m currently learning ...
-  1 - Developtment Skills: 
-      React, Redux (FrontEnd),
+  1 - **Software Development**:
+  
       Agile Methodologies,
       TDD,
+  
+  2 - **Web Development**:
+  
+      FrontEnd: React, Redux,
       
-  2 - Fundaments of Computer Science: 
+  
+  2 - **Computer Science**:
+  
       Algorithms and Data Structure,
       Design Patterns,
       OOP,
       Compilers,
       
-  3 - Mathematics:
+  3 - **Mathematics**:
+  
       Logic,
       Calculus,
       Linear Algebra,
       
-  4 - Programming Languages:
-      JavaScript (Mainly),
-      Python (For Data Science and Bioinformatics),
-      C/C++ (For fun),
-      Bash,
+  4 - **Programming Languages**:
+  
+      JavaScript: Web Development,
+      Python: Data Science and Bioinformatics,
+      C/C++: Computer Science studies,
+      Bash: Scripts,
+      
 
-- 📫 How to reach me: ...
-     maiasena.gabriel@gmail.com || gabrielsena@biof.br
+- 📚  Skills: 
+  
+  1 - Languages:
+      
+      Brazilian Portuguese: Native,
+      English: Advanced - Reading, Writing and Speaking wise,
+      Spanish: Advanced - Reading, Writing and Speaking wise,
+      French: Intermediate to Advanced - Reading and Speaking wise,
+      German: Beginner to Intermediate - Reading and Speaking wise,
+      Japanese: Beginner - Reading,
+    
+- 📫 How to reach me:
+
+     [maiasena.gabriel@gmail.com](url) || [gabrielsena@biof.br](url)
 
