@@ -2,17 +2,17 @@
 
 ## 🔬  About me:
 
-  1 - **Bioinformatics** and **Biophysics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
+   - **Bioinformatics** and **Biophysics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
   
-  2 - Currently studying **Software Development** at _Trybe_
+   - Currently studying **Software Development** at _Trybe_
   
-  3 - Seeking for job opportunities in _Web Development_ || _Data Science_
+   - Seeking for job opportunities in _Web Development_ || _Data Science_
   
-  4 - Willing to undergraduate in **Applied Math**
+   - Willing to undergraduate in **Applied Math**
   
-  5 - Loves Arts and Culture in general
+   - Loves Arts and Culture in general
   
-  6 - Learning as a hobby
+   - Learning as a hobby
   
 
 ## 🌱 I’m currently learning:
