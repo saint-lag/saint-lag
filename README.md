@@ -1,6 +1,6 @@
-### Hi there ✨
+### Hi there, I'm Gabriel ✨
 
-- 🔬  About me:
+## 🔬  About me:
 
   1 - **Bioinformatics** and **Biophysics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
   
@@ -15,7 +15,7 @@
   6 - Learning as a hobby
   
 
-- 🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 
   1 - **Software Development**:
   
@@ -48,7 +48,7 @@
       Bash: Scripts,
       
 
-- 📚  Skills: 
+## 📚  Skills: 
   
   1 - Languages:
       
@@ -59,7 +59,7 @@
       German: Beginner to Intermediate - Reading and Speaking wise,
       Japanese: Beginner - Reading,
     
-- 📫 How to reach me:
+### 📫 How to reach me:
 
-     [maiasena.gabriel@gmail.com](url) || [gabrielsena@biof.br](url)
+   [maiasena.gabriel@gmail.com](url) || [gabrielsena@biof.br](url)
 
