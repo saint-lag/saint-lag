@@ -61,5 +61,7 @@
     
 ### 📫 How to reach me:
 
-   [maiasena.gabriel@gmail.com](url) || [gabrielsena@biof.br](url)
+   [maiasena.gabriel@gmail.com](url) 
+   || [gabrielsena@biof.br](url)
+   || [linkedin.com/in/gabrielsenaoficial](url)
 
