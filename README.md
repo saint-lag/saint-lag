@@ -19,49 +19,67 @@
 
   1 - **Software Development**:
   
-      Agile Methodologies,
-      TDD,
+      - Agile Methodologies
+      - TDD
+      - Linux Environment (Unix && Bash)
+      - Git && Github
   
   2 - **Web Development**:
-  
-      FrontEnd: React, Redux,
       
+      - Internet: HTTP, HTML5, CCS, JS, API
+      - FrontEnd: Typescript, React, Redux, RTL
   
-  2 - **Computer Science**:
+  3 - **Computer Science**:
   
-      Algorithms and Data Structure,
-      Design Patterns,
-      OOP,
-      Compilers,
+      - Algorithms and Data Structure
+      - Design Patterns
+      - OOP
       
-  3 - **Mathematics**:
+  4 - **Mathematics**:
   
-      Logic,
-      Calculus,
-      Linear Algebra,
+      - Logic
+      - Calculus
       
-  4 - **Programming Languages**:
+  5 - **Programming Languages**:
   
-      JavaScript: Web Development,
-      Python: Data Science and Bioinformatics,
-      C/C++: Computer Science studies,
-      Bash: Scripts,
+      - JavaScript: Web Development
+      - Python: Data Science and Bioinformatics
+      - C/C++: Computer Science studies
+      - Bash: Scripts
+
+
+## 📚 I'll start learning soon:
+   
+   1 - **Mathematics**:
       
+      - Linear Algebra
+      - Vetorial Calculus
+      - Boolean Algebra
+  
+   2 - **Data Science**:
+      
+      - Data Scraping
+      - Data Visualization
+      - SQL
+   
+   3 - **BackEnd**:
+   
+      - Docker
+      - SQL
 
 ## 📚  Skills: 
   
   1 - Languages:
       
-      Brazilian Portuguese: Native,
-      English: Advanced - Reading, Writing and Speaking wise,
-      Spanish: Advanced - Reading, Writing and Speaking wise,
-      French: Intermediate to Advanced - Reading and Speaking wise,
-      German: Beginner to Intermediate - Reading and Speaking wise,
-      Japanese: Beginner - Reading,
+      - Brazilian Portuguese: Native
+      - English: Advanced - Reading, Writing and Speaking wise
+      - Spanish: Advanced - Reading, Writing and Speaking wise
+      - French: Intermediate to Advanced - Reading and Speaking wise
+      - German: Beginner to Intermediate - Reading and Speaking wise
+      - Japanese: Beginner - Reading
     
 ### 📫 How to reach me:
-
-   [maiasena.gabriel@gmail.com](url) 
-   || [gabrielsena@biof.br](url)
-   || [linkedin.com/in/gabrielsenaoficial](url)
+      
+   - Email: maiasena.gabriel@gmail.com || gabrielsena@biof.br
+   - <a href="https://www.linkedin.com/in/gabrielsenaoficial/" target="_blank">Linkedin</a>: Gabriel (Maia) Sena
 
