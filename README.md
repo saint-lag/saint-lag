@@ -94,14 +94,6 @@
       - Problem Solving
       - Analytical Thinking
       - Honesty
-       
-## What I learned at University so far:
-   
-   1 - **Biophysics && Bioinformatics**:
-      
-      - Molecular and Celullar Biology
-      - Structural and Metabolical Biochemistry
-      - Bioinformatics
       
     
 ### 📫 How to reach me:
