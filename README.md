@@ -21,13 +21,14 @@
   
       - Agile Methodologies
       - TDD
+      - SOLID
       - Linux Environment (Unix && Bash)
       - Git && Github
   
   2 - **Web Development**:
       
-      - Internet: HTTP, HTML5, CCS, JS, API
-      - FrontEnd: Typescript, React, Redux, RTL
+      - Internet: HTTP, HTML5, CCS, JS
+      - FrontEnd: Typescript, React, Redux, RTL, ContextAPI
   
   3 - **Computer Science**:
   
@@ -61,15 +62,21 @@
       - Data Scraping
       - Data Visualization
       - SQL
+      - Node.js
    
    3 - **BackEnd**:
    
       - Docker
       - SQL
+      - MongoDB
+   
+   4 - **Computer Science**:
+      
+      - Compilers
 
-## 📚  Skills: 
+## 📚  Others: 
   
-  1 - Languages:
+  1 - **Languages**:
       
       - Brazilian Portuguese: Native
       - English: Advanced - Reading, Writing and Speaking wise
@@ -77,6 +84,25 @@
       - French: Intermediate to Advanced - Reading and Speaking wise
       - German: Beginner to Intermediate - Reading and Speaking wise
       - Japanese: Beginner - Reading
+      
+  2 - **Soft Skills**:
+      
+      - Active Listening
+      - Active Learning
+      - Good Communication
+      - Creativity
+      - Problem Solving
+      - Analytical Thinking
+      - Honesty
+       
+## What I learned at University so far:
+   
+   1 - **Biophysics && Bioinformatics**:
+      
+      - Molecular and Celullar Biology
+      - Structural and Metabolical Biochemistry
+      - Bioinformatics
+      
     
 ### 📫 How to reach me:
       
