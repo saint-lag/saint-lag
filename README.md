@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel ✨
+### Hi there, I'm Gab ✨
 
 ## 🔬  About me:
 
