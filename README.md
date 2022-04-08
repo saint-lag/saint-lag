@@ -22,17 +22,25 @@
 ## 🌱 I’m currently learning:
 
   1 - **Software Development**:
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+    <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">  
   
       - Agile Methodologies
       - TDD
       - SOLID
       - Linux Environment (Unix && Bash)
       - Git && Github
+      - VSCode
   
   2 - **Web Development**:
-      
-      - Internet: HTTP, HTML5, CCS, JS
-      - FrontEnd: Typescript, React, Redux, RTL, ContextAPI
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
+    
+      - FrontEnd:
+         RTL, ContextAPI
+         Libraries: React, Redux, Bootstrap
   
   3 - **Computer Science**:
   
@@ -46,12 +54,17 @@
       - Calculus
       
   5 - **Programming Languages**:
+        <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+        <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+        <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-      - JavaScript: Web Development
+      - ES6/HTML5/CSS3: Web Development
       - Python: Data Science and Bioinformatics
       - C/C++: Computer Science studies
       - Bash: Scripts
-
+      
+      
 
 ## 📚 I'll start learning soon:
    
