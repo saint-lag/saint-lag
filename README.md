@@ -125,22 +125,24 @@
       - Analytical Thinking
       - Honesty
       
-  3 - **Tools**:
+  3 - **Dev Tools**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+
           
       
       - LaTex
       - Vim
-      - Slack
           
    
+ 4 - **Communication Tools**:
+       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
       
+      - Slack
     
 ### 📫 How to reach me:
       
-   - Email: maiasena.gabriel@gmail.com || gabrielsena@biof.br
+   - maiasena.gabriel@gmail.com || gabrielsena@biof.br
    - <a href="https://www.linkedin.com/in/gabrielsenaoficial/" target="_blank">
             <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
      </a>
