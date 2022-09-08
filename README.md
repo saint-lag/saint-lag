@@ -127,8 +127,8 @@
 
 ### 📫 How to reach me:
       
-   - maiasena.gabriel@gmail.com || gabrielsena@biof.br
-   - <a href="https://www.linkedin.com/in/gabrielsenaoficial/" target="_blank">
+   - maiasena.gabriel@gmail.com || gabrielsena@biof.ufrj.br
+   - <a href="https://www.linkedin.com/in/gabrielmaiaoficial/" target="_blank">
             <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
      </a>
 
