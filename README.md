@@ -8,8 +8,6 @@
   
    - Seeking for job opportunities in _Web Development_ || _Data Science_
   
-   - Willing to undergraduate in **Applied Math**
-  
    - Loves Arts and Culture in general
   
    - Learning as a hobby
