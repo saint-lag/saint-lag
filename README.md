@@ -2,6 +2,8 @@
 
 ## About me:
 
+   - **Technical** and **Content Writer** at _Write Choice_
+
    - **Bioinformatics** and **Biophysics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
   
    - Currently studying **Software Development** at _Trybe_
