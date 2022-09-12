@@ -12,7 +12,7 @@
   
 ## ☄️ Knowledge and Skills
 
-   - **Software Development**:
+   1 - **Software Development**:
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
@@ -27,8 +27,9 @@
       - Git && Github
       - VSCode
       - NPM
+      - MSC Software Architecture
 
-   - **BackEnd**:
+   2 - **BackEnd**:
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -37,7 +38,7 @@
       - Docker
       - NodeJS
 
-   - **FrontEnd**:
+   3 - **FrontEnd**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -48,27 +49,31 @@
       - ES6/HTML5/CSS3
       - ContextAPI && HTTP
       - Libraries: React, Redux, RTL, Bootstrap
+      - React Testing Library
 
 
 ## 🌱 I’m currently learning:
 
-   - **BackEnd**:
+   1 - **BackEnd**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
      
       - MongoDB
+      - Heroku
    
-   - **Computer Science**:
+  2 - **Computer Science**:
   
       - Algorithms and Data Structure
       - Design Patterns
       - OOP
+      - SOLID
       
-   - **Mathematics**:
+  3 - **Mathematics**:
   
       - Logic
       - Calculus
+      - Discrete Math
       
-   - **Programming Languages**:
+  4 - **Programming Languages**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -96,12 +101,12 @@
           
       - Data Scraping
       - Data Visualization
-      - Node.js
       - NumPy
    
    4 - **Computer Science**:
       
       - Compilers
+      - Artificial Inteligence
 
 ## 📚  Others: 
   
