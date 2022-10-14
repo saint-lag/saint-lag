@@ -31,16 +31,21 @@
       - VSCode
       - NPM
       - MSC Software Architecture
+      - Design Patterns
 
    2 - **BackEnd**:
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
+     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+       
 
       - mySQL
       - Docker
       - NodeJS
+      - MongoDB
+      - Heroku
 
    3 - **FrontEnd**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -55,30 +60,28 @@
       - Libraries: React, Redux, RTL, Bootstrap
       - React Testing Library
 
-
-## 🌱 I’m currently learning:
-
-   1 - **BackEnd**:
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-     
-      - MongoDB
-      - Heroku
-   
-  2 - **Computer Science**:
+   4 - **Computer Science**:
   
       - Algorithms and Data Structure
-      - Design Patterns
-      - OOP
-      - SOLID
+
+## 🌱 I’m currently learning:
       
-  3 - **Mathematics**:
+  1 - **Mathematics**:
   
       - Logic
       - Calculus
-      - Discrete Math
-      
-  4 - **Programming Languages**:
+      - Linear Algebra
+  
+  2 - **Data Science**:
+       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+          
+      - Data Scraping
+      - Data Visualization
+      - Fundamentals of Statistics
+      - NumPy, Pandas 
+      - Machine Learning
+   
+  3 - **Programming Languages**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -90,27 +93,6 @@
       - C/C++: Computer Science studies
       - Bash: Scripts
       
-      
-
-## 📚 I'll start learning soon:
-   
-   1 - **Mathematics**:
-      
-      - Linear Algebra
-      - Vetorial Calculus
-      - Boolean Algebra
-  
-   2 - **Data Science**:
-       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-          
-      - Data Scraping
-      - Data Visualization
-      - NumPy
-   
-   4 - **Computer Science**:
-      
-      - Compilers
-      - Artificial Inteligence
 
 ## 📚  Others: 
   
@@ -128,8 +110,7 @@
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 
-          
-      
+      - Jupyter
       - LaTex
       - Vim
           
