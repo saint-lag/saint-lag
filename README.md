@@ -2,13 +2,9 @@
 
 ## About me:
 
-   - **Technical** and **Content Writer** at _Write Choice_
-
-   - **Bioinformatics** and **Biophysics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
+   - **Applied Mathematics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
   
-   - Currently studying **Software Development** at _Trybe_
-  
-   - Seeking for job opportunities in _Web Development_ || _Data Science_
+   - Seeking for job opportunities in _Data Analysis/Science_  
 
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=compact&theme=dracula&langs_count=2" />
