@@ -7,7 +7,7 @@
    - Seeking for job opportunities in _Data Analysis/Science_  
 
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=compact&theme=dracula&langs_count=2" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=compact&theme=dracula&langs_count=3" />
 
 ## ☄️ Knowledge and Skills
 
