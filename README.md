@@ -55,10 +55,7 @@
       - ContextAPI && HTTP
       - Libraries: React, Redux, RTL, Bootstrap
       - React Testing Library
-
-   4 - **Computer Science**:
-  
-      - Algorithms and Data Structure
+      
 
 ## 🌱 I’m currently learning:
       
@@ -76,6 +73,7 @@
       - Data Visualization
       - Probability
       - Machine Learning
+      - Algorithms and Data Structure
    
   3 - **Programming Languages**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -88,6 +86,7 @@
       - Python
       - C/C++
       - Bash
+  
       
 
 ## 📚  Others: 
