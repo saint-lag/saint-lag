@@ -4,7 +4,7 @@
 
    - **Applied Mathematics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
   
-   - Seeking for job opportunities in _Data Analysis/Science_  
+   - Seeking for job opportunities in Data Science and Web Development
 
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=compact&theme=dracula&langs_count=5" />
@@ -65,16 +65,16 @@
   1 - **Mathematics**:
   
       - Logic
-      - Calculus
+      - Multivariable Calculus
+      - Vectorial Calculus
       - Linear Algebra
   
-  2 - **Data Science**:
+  2 - **Data Science and Statistics**:
        <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
           
       - Data Scraping
       - Data Visualization
-      - Fundamentals of Statistics
-      - NumPy, Pandas 
+      - Probability
       - Machine Learning
    
   3 - **Programming Languages**:
@@ -85,9 +85,9 @@
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
    
       - TypeScript
-      - Python: Data Science and Bioinformatics
-      - C/C++: Computer Science studies
-      - Bash: Scripts
+      - Python
+      - C/C++
+      - Bash
       
 
 ## 📚  Others: 
@@ -99,7 +99,8 @@
       - Spanish: Advanced - Reading, Writing and Speaking wise
       - French: Intermediate to Advanced - Reading and Speaking wise
       - German: Beginner to Intermediate - Reading and Speaking wise
-      - Japanese: Beginner - Reading
+      - Russian: Beginner to Intermediate - Reading and Speaking wise
+      - Japanese: Beginner - Reading and Speaking wise
     
       
   2 - **Dev Tools**:
