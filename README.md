@@ -6,8 +6,8 @@
   
    - Seeking for job opportunities in Data Science and Web Development
 
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=compact&theme=dracula&langs_count=10" />
+   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
+   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=compact&theme=dracula&langs_count=10" />
 
 ## ☄️ Knowledge and Skills
 
