@@ -8,6 +8,8 @@
 
    - Studied in <a href="https://www.betrybe.com" target="_blank">**Trybe**</a>, **Web Development School**
 
+   - Working with **Machine Learning** applied in **Structural Biophysics** at <a href="https://pesquisa.biof.ufrj.br/biologia-molecular-estrutural/lmdm/" target="_blank">**LabMDM**</a>
+
    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
    <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=donut&theme=dracula&langs_count=6" />
 
