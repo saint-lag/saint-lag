@@ -2,9 +2,11 @@
 
 ## About me:
 
-   - **Applied Mathematics** undergraduate student at _UFRJ_ (Rio de Janeiro, Brazil)
+   - **Applied Mathematics** undergraduate student at <a href="https://sites.google.com/matematica.ufrj.br/aplicada/matemática-aplicada" target="_blank">**UFRJ**</a> (Rio de Janeiro, Brazil)
   
-   - Seeking for job opportunities in Data Science and Web Development
+   - Seeking for job opportunities in **Data Science** and **Web Development**
+
+   - Studied in <a href="https://www.betrybe.com" target="_blank">**Trybe**</a>, **Web Development School**
 
    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
    <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=donut&theme=dracula&langs_count=6" />
