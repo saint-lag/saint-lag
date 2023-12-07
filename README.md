@@ -9,9 +9,19 @@
    - Studied in <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">**Trybe**</a>, **Web Development School**
 
    - Working with **Machine Learning** applied in **Structural Biophysics** at <a href="https://pesquisa.biof.ufrj.br/biologia-molecular-estrutural/lmdm/" target="_blank">**LabMDM**</a>
+   
+   <br/>
+   
+   <p align="center">
+      <a href="https://www.linkedin.com/in/gabrielmaiaoficial/"><img style="height: auto; width: auto;" class="img" src="https://img.shields.io/badge/gabrielmaiaoficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   </p>
 
-   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
-   <img height="225px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=donut&theme=dracula&langs_count=6" />
+   <br/>
+
+   <p align="center">
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=donut&theme=dracula&langs_count=6" />
+   </p>
 
 ## 🗃 Repositories:
 
@@ -23,17 +33,6 @@
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
     <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
     <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-          
-  
-      - Agile Methodologies
-      - TDD
-      - SOLID
-      - Linux Environment
-      - Git && Github
-      - VSCode
-      - NPM
-      - MSC Software Architecture
-      - Design Patterns
 
 - **BackEnd**:
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
@@ -43,12 +42,6 @@
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
        
 
-      - mySQL
-      - Docker
-      - NodeJS
-      - MongoDB
-      - Heroku
-
 - **FrontEnd**:
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -56,11 +49,6 @@
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
-      
-      - ES6/HTML5/CSS3
-      - ContextAPI && HTTP
-      - Libraries: React, Redux, RTL, Bootstrap
-      - React Testing Library
       
 
 ## 🌱 Learning:
