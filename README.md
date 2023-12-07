@@ -16,12 +16,6 @@
       <a href="https://www.linkedin.com/in/gabrielmaiaoficial/"><img style="height: auto; width: auto;" class="img" src="https://img.shields.io/badge/gabrielmaiaoficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    </p>
 
-   <br/>
-
-   <p align="center">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=donut&theme=dracula&langs_count=6" />
-   </p>
 
 ## 🗃 Repositories:
 
@@ -50,19 +44,10 @@
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> 
       
-
-## 🌱 Learning:
-      
-  - **Data Science and Statistics**:
-       <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-          
-  - **Programming Languages**:
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" />
-
-   - **Languages**:
      
-   
+## 📊 GitHub Stats   
+   <p align="center">
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=saint-lag&show_icons=true&theme=dracula" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saint-lag&layout=donut&theme=dracula&langs_count=6" />
+   </p>
+
