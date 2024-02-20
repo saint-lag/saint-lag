@@ -3,12 +3,12 @@
 ## About me:
 
    - **Applied Mathematics** undergraduate student at <a href="https://sites.google.com/matematica.ufrj.br/aplicada/matemática-aplicada" target="_blank">**UFRJ**</a>
-  
+   - Working with **Data Engineering** at **LAMDEC**</a>
+   - Working with **Machine Learning** applied in **Structural Biophysics** at <a href="https://pesquisa.biof.ufrj.br/biologia-molecular-estrutural/lmdm/" target="_blank">**LabMDM**</a>
+   - Studied in <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">**Trybe**</a>, **Web Development School**
    - Seeking for opportunities in **Data Science** and **Web Development**
 
-   - Studied in <a href="https://www.betrybe.com/formacao-desenvolvimento-web" target="_blank">**Trybe**</a>, **Web Development School**
-
-   - Working with **Machine Learning** applied in **Structural Biophysics** at <a href="https://pesquisa.biof.ufrj.br/biologia-molecular-estrutural/lmdm/" target="_blank">**LabMDM**</a>
+   
    
    <br/>
    
