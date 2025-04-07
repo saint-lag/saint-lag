@@ -4,9 +4,9 @@
 
    - **Applied Mathematics** undergraduate student at <a href="https://sites.google.com/matematica.ufrj.br/aplicada/matemática-aplicada" target="_blank">**UFRJ**</a>
 
-   - Currently working as **Data Analytics** Intern at **LabMA**
+   - Currently working as **Data Analytics** Intern at <a href="https://github.com/LabMA-UFRJ" target="_blank">**LabMA**</a>
    
-   - Worked with **Data Engineering** at **LAMDEC**</a>
+   - Worked with **Data Engineering** at <a href="https://github.com/LAMDEC" target="_blank">**LAMDEC**</a>
    
    - Worked with **Machine Learning** applied in **Structural Biophysics** at <a href="https://pesquisa.biof.ufrj.br/biologia-molecular-estrutural/lmdm/" target="_blank">**LabMDM**</a>
    
